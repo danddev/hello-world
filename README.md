@@ -1,2 +1,8 @@
 # hello-world
-For ideas, resources, etc.
+
+Hi everybody!
+
+Just testing out this new repository.  I like clean and elegant code, and I'm just learning GitHub.
+
+Thank you
+
